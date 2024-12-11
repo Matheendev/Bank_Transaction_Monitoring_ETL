@@ -7,16 +7,16 @@ This repository contains Data Engineering solution using ETL (Extract, Transform
 As a part of this project we are solving 4 business problem statements:
 
 - Customers who made a large withdrawal after receiving a direct deposit:
-- Identify customers who made a significant withdrawal after a direct deposit was credited to their account.
+Identify customers who made a significant withdrawal after a direct deposit was credited to their account.
 
 - Customers who have both deposits and withdrawals:
-- Find customers who have made both deposit and withdrawal transactions.
+Find customers who have made both deposit and withdrawal transactions.
 
 - List all transactions performed by customers after their account opening:
-- Retrieve all transactions carried out by customers subsequent to their initial account opening.
+Retrieve all transactions carried out by customers subsequent to their initial account opening.
 
 - Determine the Average time delay between making a direct deposit and a large withdrawal for all customers:
-- Calculate the average time interval from when a customer receives a direct deposit to when they make a significant withdrawal.
+Calculate the average time interval from when a customer receives a direct deposit to when they make a significant withdrawal.
 
 
 ## Data Model
